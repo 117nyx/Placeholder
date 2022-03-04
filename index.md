@@ -4,9 +4,9 @@ Computer programming 1, focus on Processing and C++.
 Projects Include: 
 
 ##Calculator
-*digital calculator using classes and math functions
+Digital calculator using classes and math functions
 
 ##Space Game
-*object oriented solution to a space shooter game
+Object oriented solution to a space shooter game
 
 
